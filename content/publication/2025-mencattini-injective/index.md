@@ -44,6 +44,10 @@ links:
   icon_pack: fab
   name: Thread
   url: https://x.com/GladiaLab/status/1982818213206315120?s=20
+- icon: github
+  icon_pack: fab
+  name: 'GitHub'
+  url: https://github.com/giorgosnikolaou/SIPIT
 
 publication: '*International Conference on Learning Representations (ICLR 2026)*'
 ---
